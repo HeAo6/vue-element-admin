@@ -1,7 +1,7 @@
 <template>
   <div class="chart-container">
     <chart height="100%" width="100%" />
-    123456
+    123456789
   </div>
 </template>
 
